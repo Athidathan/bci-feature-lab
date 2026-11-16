@@ -1,0 +1,20 @@
+:root {
+  color-scheme: dark;
+  --bg: #0F1116;
+  --surface: #161A22;
+  --surface-raised: #1C212B;
+  --line: rgba(255, 255, 255, 0.08);
+  --line-strong: rgba(255, 255, 255, 0.16);
+  --text: #E6E9EF;
+  --muted: #8B93A7;
+  --accent: #F4D03F;
+  --accent-soft: rgba(244, 208, 63, 0.12);
+  --warn: #FC6255;
+  --ok: #83C167;
+  --erd: #3280DA;
+  --ers: #E84E42;
+  --font-ui: "Space Grotesk", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+  --radius: 10px;
+  --focus: 0 0 0 2px var(--bg), 0 0 0 4px var(--accent);
+}
