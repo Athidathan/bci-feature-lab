@@ -10,6 +10,13 @@ From PowerShell at the project root, install dependencies and start both service
 .\run.ps1
 ```
 
+On Linux or macOS, run the Bash script from the project root:
+
+```bash
+chmod +x run.sh
+./run.sh
+```
+
 To start them separately, run the backend:
 
 ```powershell
